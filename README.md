@@ -1,5 +1,5 @@
 # Desafio-Phishing-Dio
-Repositório de armazenamento do passo a passo da criação do pishing da página do facebook
+Repositório de armazenamento do passo a passo da criação do pishing usando clone de página por meio do setoolkit
 ## Ferramentas
 *  Kali Linux
 *  setoolkit
